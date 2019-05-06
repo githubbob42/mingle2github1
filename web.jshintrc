@@ -1,0 +1,26 @@
+{
+    "globals": {
+        "describe": false,
+        "requirejs": false,
+		"define": false
+    },
+
+  "curly": false,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "boss": true,
+  "eqnull": true,
+  "node": true,
+  "es5": false,
+
+	"jquery": true,
+	"smarttabs": true,
+	"browser": true,
+	"devel": true
+}
