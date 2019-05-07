@@ -1,0 +1,13 @@
+node_modules
+assets/vendor
+coverage
+dist
+docs
+tmp
+server.js
+grunt/
+tests/jasmine.promise.min.js
+SAMPLES.js
+*HIDE*
+*Test*
+octokit.js
